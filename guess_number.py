@@ -23,5 +23,6 @@ while True:
         break
 # ...выводим сообщение.
 print('Отличная интуиция! Вы угадали число :)')
-print('pug'
+print('pug')
+print('pug')
 pass
